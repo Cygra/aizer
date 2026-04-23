@@ -2,6 +2,8 @@
 
 A skill for Claude Code and OpenCode that injects signs of AI-generated writing into text, making it sound as though it was produced by a large language model.
 
+Inspired by **humanizer** -- https://github.com/blader/humanizer
+
 ## Installation
 
 ### Claude Code
